@@ -1,0 +1,3 @@
+killall screen
+screen ./RUNSY.sh
+echo -e "BOT IS RUN BOT"
