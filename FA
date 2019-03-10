@@ -1,3 +1,0 @@
-killall screen
-screen ./RUNFA.sh
-echo -e "BOT IS RUN BOT"
